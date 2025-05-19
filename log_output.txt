@@ -1,0 +1,11 @@
+[이찬우] Tue May 20 03:52:45 2025 +0900 과제 pdf 변환 a912414
+[이찬우] Tue May 20 03:43:57 2025 +0900 communication 에러 수정 c54c2aa
+[이찬우] Tue May 20 03:23:26 2025 +0900 use case diagram 수정 e264801
+[이찬우] Tue May 20 03:19:49 2025 +0900 analysis class diagram 추가 d1703a2
+[이찬우] Tue May 20 00:49:31 2025 +0900 requirement list, description 수정 614e109
+[이찬우] Tue May 20 00:42:53 2025 +0900 communication diagram 추가 5b264d5
+[이찬우] Sun May 18 20:34:19 2025 +0900 use case description pdf 추가 748d04a
+[이찬우] Sun May 18 19:00:51 2025 +0900 use case diagram 추가 ebae670
+[이찬우] Sun May 18 18:48:03 2025 +0900 인코딩 수정 7cc2540
+[이찬우] Sun May 18 18:38:12 2025 +0900 requirement list 추가 e8f29bd
+[chan0831] Sun May 18 18:14:34 2025 +0900 Initial commit acc092b
